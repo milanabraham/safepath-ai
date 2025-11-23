@@ -310,8 +310,8 @@ Contributions, issues, and feature requests are welcome!
 For queries or collaboration:
 
 - 📧 Email: milan.abraham.offical@gmail.com
-- 🐙 GitHub: [@your-username](https://github.com/milanabraham)
-- 💼 LinkedIn: [Your Name]([https://linkedin.com/in/](https://in.linkedin.com/in/milan-korah-abraham-03648926b))
+- 🐙 GitHub: [@Milanabraham](https://github.com/milanabraham)
+- 💼 LinkedIn: [Milan Korah Abraham]([https://in.linkedin.com/in/milan-korah-abraham-03648926b])
 
 ---
 
